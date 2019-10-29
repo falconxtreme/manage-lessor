@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>747960399992-6si68v47rsov44eqinqiau4tit9h1994.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.747960399992-6si68v47rsov44eqinqiau4tit9h1994</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCApMoy_KGtrbS2JmPV3xneFdkG6iT44xc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>747960399992</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.nativescript.managelessor</string>
+	<key>PROJECT_ID</key>
+	<string>manage-lessor-firebase</string>
+	<key>STORAGE_BUCKET</key>
+	<string>manage-lessor-firebase.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:747960399992:ios:aa649cb9360c4d1806d58d</string>
+	<key>DATABASE_URL</key>
+	<string>https://manage-lessor-firebase.firebaseio.com</string>
+</dict>
+</plist>

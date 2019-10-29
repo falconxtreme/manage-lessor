@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "747960399992",
+    "firebase_url": "https://manage-lessor-firebase.firebaseio.com",
+    "project_id": "manage-lessor-firebase",
+    "storage_bucket": "manage-lessor-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747960399992:android:17fd05eaef77ace706d58d",
+        "android_client_info": {
+          "package_name": "org.nativescript.managelessor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747960399992-hvnfvoeq3gbmpaaa2iohem9nqicnj6nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdsEoQ78N3AW-AhkiISiyIkZpD1aJyeu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747960399992-hvnfvoeq3gbmpaaa2iohem9nqicnj6nb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "747960399992-6si68v47rsov44eqinqiau4tit9h1994.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.nativescript.managelessor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
