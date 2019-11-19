@@ -6,6 +6,7 @@ import { alert } from "tns-core-modules/ui/dialogs";
 import { Router } from "@angular/router";
 
 import { User } from './../../models/login/user.model';
+import { tnsOAuthLogin } from "../../services/auth-service.service";
 
 @Component({
     selector: "Login",
@@ -60,6 +61,7 @@ export class LoginComponent implements OnInit {
     }
 
     login(){
+        tnsOAuthLogin('google');
         this.router.navigate(["/home"]);
     }
 

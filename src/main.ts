@@ -2,5 +2,8 @@
 import { platformNativeScriptDynamic } from "nativescript-angular/platform";
 
 import { AppModule } from "./app/app.module";
+import { configureOAuthProviders } from "./app/layout/services/auth-service.service";
+
+configureOAuthProviders();
 
 platformNativeScriptDynamic().bootstrapModule(AppModule);
